@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Shared app theme colors (used across both screens) -->
+    <color name="primary">#FF3F51B5</color>
+    <color name="primary_dark">#FF303F9F</color>
+    <color name="accent">#FFFF4081</color>
+    <color name="screen_background">#FFF2F3F7</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="text_primary">#FF1A1A2E</color>
+    <color name="text_secondary">#FF6B6B7B</color>
+    <color name="divider">#FFE0E0E6</color>
+    <color name="field_background">#FFF7F8FA</color>
+</resources>
